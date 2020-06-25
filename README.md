@@ -11,8 +11,8 @@ Google Colaboratory<br>
 Raspbian GNU/Linux9<br>
 
 <h2>2. Data creation</h2>
-<p>python testdata_get.py<br>
-About labels</p>
+<p>python testdata_get.py</p>
+<center><strong>About labels</strong></center>
 <table>
   <tr>
     <td>label name</td>
